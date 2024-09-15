@@ -1,4 +1,12 @@
 {
+  "posts": [
+    { "id": "1", "title": "a title", "views": 100 },
+    { "id": "2", "title": "another title", "views": 200 }
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
   "blogs": [
     {
       "id": 3,
@@ -216,5 +224,11 @@
       "content": "The move towards Open Banking payments, especially in the EU, effectively kicked-off the FinTech boom. Open Baking standards meant that FinTech startups could create Wallets and effectively become ...",
       "tags": ["Startups", "Writing"]
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
+
+
+
