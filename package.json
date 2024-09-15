@@ -1,0 +1,17 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000J\u0000S\u0000O\u0000N\u0000-\u0000S\u0000E\u0000R\u0000V\u0000E\u0000R\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.2",
+    "nodemon": "^3.1.4"
+  }
+}
